@@ -1,2 +1,3 @@
-# spaghetti-bolognese
-An attempt to create something useful and delicious... BEEF RAGOUT! RAG, in short. 
+# Ragu' alla Bolognese
+
+An attempt to create something useful and delicious... BEEF RAGU'! RAG, in short. 
