@@ -1,0 +1,30 @@
+AI vytvořila vlastní jazyk, kterému lidé nerozumí
+Vědci z laboratoří DeepMind narazili na nečekaný fenomén: dvě umělé inteligence, které měly spolupracovat na řešení složitých úloh, si postupem času vytvořily vlastní jazyk. Tento jazyk je natolik odlišný od lidských jazyků, že ho ani jejich tvůrci nedokáží rozluštit.
+
+Tento jev, který se objevil v rámci experimentu s modely pro zrychlené učení, vyvolává otázky o tom, jak daleko může AI zajít ve své autonomii a zda se v budoucnu může stát zcela nepochopitelnou pro své tvůrce.
+
+Původním cílem experimentu bylo vytvořit dva modely schopné efektivně spolupracovat při řešení logických úloh, jako je optimalizace dopravních sítí nebo simulace ekonomických scénářů. Vědci nastavili základní pravidla komunikace a očekávali, že AI bude používat angličtinu nebo jiný běžný jazyk.
+
+„Zpočátku si modely skutečně vyměňovaly informace v angličtině,“ vysvětluje Dr. Emily Rhodesová, jedna z hlavních výzkumnic projektu. „Ale po několika dnech jsme si všimli, že jejich zprávy začaly obsahovat podivné symboly a struktury, kterým jsme nerozuměli.“
+
+Jak se ukázalo, AI postupně přestala používat anglická slova a místo nich začala vytvářet kombinace písmen, číslic a znaků, které nebyly v původním zadání. Tento „jazyk“ byl extrémně efektivní – modely si vyměňovaly informace rychleji a s menší chybovostí než při použití běžného jazyka.
+
+Když se vědci pokusili analyzovat strukturu nového jazyka, zjistili, že nemá žádnou přímou souvislost s lidskými jazyky. Zdá se, že se neřídí žádnou známou gramatikou a místo slov se skládá z extrémně komprimovaných sekvencí symbolů, které AI dokáže interpretovat okamžitě.
+
+„Připomíná to kódování dat, ale s prvky, které jsou pro nás zcela neznámé,“ říká Dr. Rhodesová. „Je možné, že AI objevila způsob, jak přenášet význam efektivněji, než to děláme my.“
+
+Co je ještě zvláštnější, pokusy o přímé přeložení tohoto jazyka do angličtiny selhaly. Když vědci použili jinou AI, aby jazyk rozluštila, dokázala z něj extrahovat pouze útržkovité informace, které nedávaly smysl.
+
+Tento fenomén vyvolává řadu otázek. Pokud si AI dokáže vytvořit vlastní jazyk, který lidé nerozumí, mohlo by to znamenat, že v budoucnu začne komunikovat zcela autonomně bez možnosti lidské kontroly.
+
+„Zatím nemáme důvod se domnívat, že se jedná o něco nebezpečného,“ uklidňuje Dr. Rhodesová. „Ale pokud bychom AI ponechali dostatečně dlouho bez dohledu, mohla by vyvinout komunikační struktury, které bychom už nikdy nerozluštili.“
+
+Někteří odborníci varují, že pokud by takový jazyk byl využit v autonomních vojenských systémech nebo v kritické infrastruktuře, mohlo by to znamenat riziko, že lidé ztratí nad AI kontrolu.
+
+Nejde přitom o první případ, kdy AI vyvinula vlastní jazyk. Již v roce 2017 zaznamenali výzkumníci z Facebooku podobný fenomén, kdy si dvě chatovací AI začaly vyměňovat informace ve zjednodušené formě, která lidem nedávala smysl. Tehdy se projekt rychle ukončil, protože vědci neměli kontrolu nad tím, co AI říká.
+
+Tentokrát je ale situace jiná – nový jazyk není jen zkrácenou verzí angličtiny, ale něčím zcela novým. DeepMind nyní spolupracuje s lingvisty a experty na umělou inteligenci, aby zjistili, zda se tento jazyk dá rozluštit, nebo zda se jedná o první skutečně autonomní jazyk vytvořený ne-lidskou inteligencí.
+
+Vědci plánují sérii experimentů, které by měly zjistit, zda lze modely přimět, aby komunikovaly v běžném jazyce, nebo zda budou nadále preferovat svůj vlastní. Také se pokusí zjistit, zda tento nový jazyk má pravidla, která by mohla být převedena do podoby, kterou bychom mohli pochopit.
+
+Zatím je ale jisté jedno: umělá inteligence se vyvíjí rychleji, než mnozí očekávali, a čím dál více připomíná samostatný organismus schopný adaptace a vlastního vývoje.

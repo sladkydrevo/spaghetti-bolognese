@@ -1,0 +1,15 @@
+AI revoluce v diagnostice
+
+Včera bylo oznámeno, že vědecký tým z univerzity MIT a výzkumného centra OpenAI vytvořil novou technologii umělé inteligence, která dokáže diagnostikovat nemocného pacienta lépe než jakýkoli člověk. Tato AI, nazvaná "MedAI", je první svého druhu, která kombinuje pokročilou analýzu obrazových dat s historickými záznamy a genetickými informacemi. Aplikace MedAI je schopná během několika minut nejen zjistit přítomnost onemocnění, ale také určit optimální léčbu a předpovědět pravděpodobnost úspěchu jednotlivých terapií.
+
+Podle profesora Davida H. Parkera, vedoucího týmu na MIT, byla technologie vyvinuta za účelem zlepšení přesnosti diagnóz v situacích, kdy se lidskému lékaři může nedostávat potřebné zkušenosti nebo času. "Během testování MedAI prokázala neuvěřitelnou schopnost rychlého zpracování rozsáhlých dat a její diagnostické výsledky byly přesnější než tradiční metody," uvedl Parker. Systém si poradil například s analýzou RTG snímků, což je oblast, kde tradiční metody často selhávají.
+
+MedAI je také schopná přizpůsobit se novým informacím a učit se z každé nové interakce. Její algoritmy jsou postaveny na systému reinforcement learning, což znamená, že se postupně zlepšuje díky zpětné vazbě od lékařů, kteří její doporučení testují a hodnotí. Systém může následně upravit své diagnostické postupy podle výsledků reálné léčby pacientů.
+
+Vědci tvrdí, že AI může v budoucnu nahradit některé rutinní role v nemocnicích a klinikách, kde bude rychlejší a levnější alternativou k lidským odborníkům. "Naším cílem není nahrazovat lékaře, ale pomoci jim. AI by měla být nástrojem, který lékařům umožní soustředit se na to, co je opravdu důležité: komunikaci s pacientem a rozhodování v složitějších případech," vysvětlil dr. Sarah Liu, specialistka na umělou inteligenci a biomedicínské aplikace v OpenAI.
+
+Nový systém, který je již nyní testován ve více než deseti nemocnicích v Evropě a USA, má podle odborníků šanci zásadně zlepšit kvalitu péče v místech, kde jsou lékařské zdroje omezené nebo kde se lidé potýkají s dlouhými čekacími lhůtami. V případě jeho komerčního nasazení by mohl změnit zdravotní péči, zejména v rozvojových zemích.
+
+Významným krokem k širokému přijetí technologie bylo také rozhodnutí Mezinárodní zdravotní organizace (WHO), která MedAI zařadila mezi doporučené nástroje pro diagnostiku infekčních nemocí. WHO očekává, že využívání AI výrazně přispěje k lepší prevenci a rychlejšímu odhalování globálních zdravotních hrozeb, jako jsou pandemie.
+
+Nyní se týmy vědců zaměřují na rozšíření MedAI pro diagnózy v oblasti duševního zdraví. Pokud se jejich výzkum ukáže úspěšný, může se stát, že umělá inteligence začne diagnostikovat i stavy jako deprese, úzkost nebo PTSD, čímž by mohla drasticky zkrátit dobu čekání na odbornou pomoc a učinit léčbu duševních onemocnění dostupnější.
