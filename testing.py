@@ -1,19 +1,32 @@
-import os
 import json
+import rag_functions as rf
+import custom_embedding_functions
 
-folder = r"C:\Users\RobosizeME\Documents\RAG-testing\dataset\questions"
-eval_set = []
 
-for file in os.listdir(folder):
-    file_path = os.path.join(folder, file)
-    with open(file_path, "r", encoding="utf8") as f:
-        q = f.read()
-        d = {
-            "question": q,
-            "answer": "",
-            "source_file_name": file
-        }
-        eval_set.append(d)
+def load_json(path):
+    with open(path, "r") as f:
+        loaded_data = json.load(f)
+    return loaded_data
+        
+        
+models_path = "models/models_test.json"
+def list_models(models_path, models_type):
+    models = load_json(models_path)
+    return models[models_type]
 
-with open(r"C:\Users\RobosizeME\Documents\spaghetti-bolognese\dataset\qa\qa_eval_set.json", "w", encoding="utf8") as f:
-    json.dump(eval_set, f, indent=2, ensure_ascii=False)
+
+embedding_models = list_models(models_path, models_type="embedding_models")
+generative_models = list_models(models_path, models_type="generative_models")
+
+    
+def universal_ef(model_family, model_name):
+    embedding_function = getattr(custom_embedding_functions, model_family)
+    ef = lambda: embedding_function(model_name)
+    return ef
+
+xd = universal_ef("sentence_transformers_embedding", "aaaaaaaaaaa")
+print(xd)
+"""
+for model_family in embedding_models:
+    for model_name in model_family:
+        xd = universal_ef(model_family, model_name)"""

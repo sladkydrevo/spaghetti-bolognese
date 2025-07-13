@@ -1,6 +1,6 @@
 {
     "embedding_models" : {
-        "sentence_transformers" : [
+        "sentence_transformers_embedding" : [
             "all-MiniLM-L6-v2",
             "distiluse-base-multilingual-cased-v1",
             "distiluse-base-multilingual-cased-v2",
@@ -10,22 +10,22 @@
             "paraphrase-multilingual-MiniLM-L12-v2",
             "paraphrase-multilingual-mpnet-base-v2"
         ],
-        "openai" : [
+        "openai_embedding" : [
             "text-embedding-3-large",
             "text-embedding-3-small",
             "text-embedding-ada-002"
         ],
-        "jina" : [
+        "jina_embedding" : [
             "jina-embeddings-v3",
             "jina-clip-v2"
         ],
-        "google_vertex" : [
+        "vertex_embedding" : [
             "text-multilingual-embedding-002"
         ],
-        "google" : [
+        "genai_embedding" : [
             "text-embedding-004"
         ],
-        "cohere" : [
+        "cohere_embedding" : [
             "embed-multilingual-light-v3.0",
             "embed-multilingual-v3.0",
             "embed-multilingual-v2.0"

@@ -15,7 +15,7 @@ Když se vědci pokusili analyzovat strukturu nového jazyka, zjistili, že nem�
 
 Co je ještě zvláštnější, pokusy o přímé přeložení tohoto jazyka do angličtiny selhaly. Když vědci použili jinou AI, aby jazyk rozluštila, dokázala z něj extrahovat pouze útržkovité informace, které nedávaly smysl.
 
-Tento fenomén vyvolává řadu otázek. Pokud si AI dokáže vytvořit vlastní jazyk, který lidé nerozumí, mohlo by to znamenat, že v budoucnu začne komunikovat zcela autonomně bez možnosti lidské kontroly.
+Tento fenomén vyvolává řadu otázek. Pokud si AI dokáže vytvořit vlastní jazyk, kterému lidé nerozumí, mohlo by to znamenat, že v budoucnu začne komunikovat zcela autonomně bez možnosti lidské kontroly.
 
 „Zatím nemáme důvod se domnívat, že se jedná o něco nebezpečného,“ uklidňuje Dr. Rhodesová. „Ale pokud bychom AI ponechali dostatečně dlouho bez dohledu, mohla by vyvinout komunikační struktury, které bychom už nikdy nerozluštili.“
 
