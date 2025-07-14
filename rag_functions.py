@@ -12,7 +12,7 @@ def load_texts(folder_path):
             file = os.path.join(folder_path, filename)
             filename = os.path.splitext(filename)[0]
             
-            with open(file, "r") as f:
+            with open(file, "r", encoding="utf-8") as f:
                 text_data["filename"] = filename
                 text_data["text"] = f.read()
             texts.append(text_data)
@@ -43,7 +43,7 @@ def dict_to_kv_lists(data):
 
 
 def load_json(path):
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         loaded_data = json.load(f)
     return loaded_data
         
