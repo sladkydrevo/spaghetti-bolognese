@@ -1,6 +1,4 @@
 import os
-import chromadb
-import rag_functions as rf
 from chromadb.utils import embedding_functions
 import google.auth
 from chromadb.api.types import (
@@ -20,6 +18,7 @@ def sentence_transformers_embedding(model_name):
 
 class VertexAIEmbeddingFunction(EmbeddingFunction[Documents]):
     def __init__(self, project_id, location, model_name, dimensionality=3072):
+     
         creds, _ = google.auth.default(quota_project_id=project_id)
         vertexai.init(project=project_id, location=location, credentials=creds)
         

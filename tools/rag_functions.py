@@ -1,7 +1,8 @@
 import os
 import csv
 import json
-import custom_embedding_functions
+from model_config.clients_api import clients
+import model_config.chroma_embedding_functions as chroma_embedding_functions
 
 
 def load_texts(folder_path):
@@ -65,6 +66,15 @@ def list_models(models_path, models_type):
 
 
 def universal_ef(model_family, model_name):
-    embedding_function = getattr(custom_embedding_functions, model_family)
+    embedding_function = getattr(chroma_embedding_functions, model_family)
     ef = lambda: embedding_function(model_name)
     return ef
+
+
+def vectorize_text(text, provider="openai"):
+    client = clients[provider]()
+    response = client.embeddings.create(
+        input=text,
+        model="text-embedding-3-large"
+    )
+    return response.data[0].embedding

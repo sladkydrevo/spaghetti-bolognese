@@ -1,6 +1,6 @@
 import json
-import rag_functions as rf
-import custom_embedding_functions
+import tools.rag_functions as rf
+import model_config.chroma_embedding_functions as chroma_embedding_functions
 
 
 def load_json(path):
@@ -20,7 +20,7 @@ generative_models = list_models(models_path, models_type="generative_models")
 
     
 def universal_ef(model_family, model_name):
-    embedding_function = getattr(custom_embedding_functions, model_family)
+    embedding_function = getattr(chroma_embedding_functions, model_family)
     ef = lambda: embedding_function(model_name)
     return ef
 

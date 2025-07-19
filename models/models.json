@@ -36,10 +36,10 @@
     },
 
     "generative_models" : {
-        "meta" : [
+        "together_client" : [
             "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
         ],
-        "openai" : [
+        "openai_client" : [
             "gpt-4o-mini"
         ]
     }

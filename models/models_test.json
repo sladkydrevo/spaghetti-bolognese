@@ -10,7 +10,7 @@
     },
 
     "generative_models" : {
-        "meta" : [
+        "together" : [
             "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
         ],
         "openai" : [
