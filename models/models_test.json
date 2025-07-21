@@ -1,0 +1,21 @@
+{
+    "embedding_models" : {
+        "sentence_transformers_embedding" : [
+            "all-MiniLM-L6-v2",
+            "paraphrase-multilingual-mpnet-base-v2"
+        ],
+        "openai_embedding" : [
+            "text-embedding-3-large"
+        ]
+    },
+
+    "generative_models" : {
+        "together" : [
+            "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+        ],
+        "openai" : [
+            "gpt-4o-mini"
+        ]
+    }
+
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Jaký byl výsledek měření teploty na povrchu objektu na okraji Sluneční soustavy a co to naznačuje?",
+    "answer": "Výsledky měření teploty na povrchu objektu X7-N1 ukázaly nepřirozené výkyvy, kdy došlo k nárůstu teploty o několik stupňů během několika hodin, což naznačuje, že objekt může obsahovat aktivní geologické procesy nebo neznámý zdroj energie. Pokud se tyto domněnky potvrdí, mohlo by jít o první objekt ve vnější Sluneční soustavě s aktivním vnitřním ohřevem.",
+    "source_file_name": "01VN_otazka.txt"
+  },
+  {
+    "question": "Existují nějaké známé přírodní jevy, které by tajemný signál u Proximy Centauri mohly způsobit?",
+    "answer": "Ano, existuje hypotéza, že by signál mohl pocházet z jedné z planet, jako je Proxima b nebo Proxima c, které obíhají okolo Proximy Centauri. Signál by mohl mít přírodní původ například v atmosférických procesech nebo interakcích s hvězdným větrem.",
+    "source_file_name": "02VN_otazka.txt"
+  },
+  {
+    "question": "Jaké chemické sloučeniny byly na povrchu jednoho z měsíců Sluneční soustavy detekovány?",
+    "answer": "Na povrchu měsíce Europa byly detekovány zvýšené koncentrace metanu, oxidu uhličitého a několika dosud neidentifikovaných dusíkatých sloučenin.",
+    "source_file_name": "03VN_otazka.txt"
+  },
+  {
+    "question": "Jakým teleskopem budou vědci zkoumat podrobněji světelné impulzy vycházející z oblasti černé díry v galaxii M87?",
+    "answer": "Vědci plánují využití nových generací teleskopů, včetně Event Horizon Telescope (EHT) a Extremely Large Telescope (ELT) v Chile, aby získali podrobnější pohled na záblesky v okolí M87.",
+    "source_file_name": "04VN_otazka.txt"
+  },
+  {
+    "question": "Byl na Marsu někdy život?",
+    "answer": "I když zatím nemáme důkazy, nový objev ukazuje, že pod Marsovým povrchem existují podmínky, které mohou být příznivé pro vznik a přežití mikroorganismů. Pokud se v podzemních jezerech na Marsu najdou známky života, mohlo by to znamenat, že život na této planetě vznikl v dávné minulosti.",
+    "source_file_name": "05VN_otazka.txt"
+  },
+  {
+    "question": "Jaký teleskop bude vědcům umožňovat analýzu atmosféry planety Gliese 486 b?",
+    "answer": "Vědcům bude umožňovat analýzu atmosféry planety Gliese 486 b teleskop James Webb Space Telescope.",
+    "source_file_name": "06VN_otazka.txt"
+  },
+  {
+    "question": "Jaké teleskopy byly použity k detekci přítomnosti temné hmoty?",
+    "answer": "K detekci přítomnosti temné hmoty v galaxii Andromeda byly použity Hubbleův teleskop a Chandra X-ray Observatory.",
+    "source_file_name": "07VN_otazka.txt"
+  },
+  {
+    "question": "Co odlišuje černou díru v galaxii T57 od známých černých děr?",
+    "answer": "Černá díra v galaxii T57 se chová jinak než všechny známé černé díry, protože namísto typického vyzařování rentgenového záření z okolního horkého plynu vyzařuje tajemné elektromagnetické vlny, které naznačují, že černá díra vyzařuje teplo způsobem, který by mohl souviset s neznámým zdrojem energie.",
+    "source_file_name": "08VN_otazka.txt"
+  },
+  {
+    "question": "Jakým způsobem by mohl objev jiného životního cyklu hvězd změnit naše metody studia vesmíru v budoucnosti?",
+    "answer": "Objev jiného životního cyklu hvězd v Orionu by mohl vést k přehodnocení našich představ o vývoji hvězd a výbuchu supernov, stejně jako o formování planetárních systémů. Mohlo by to umožnit vědcům vyvinout nové metody studia, které zohledňují cyklické procesy místo dosavadního lineárního modelu. To by mohlo otevřít nové možnosti pro pochopení vzniku planetárních systémů a života na exoplanetách.",
+    "source_file_name": "09VN_otazka.txt"
+  },
+  {
+    "question": "Co vypovídá o tom, že záhadný objekt \"Kus zdi\" je umělého původu?",
+    "answer": "To, že by záhadný objekt mohl mít umělý původ, naznačuje jeho neobvyklý tvar, který připomíná stavební blok, nebo jeho povrch, který odráží světlo atypickým způsobem. Dále také přítomnost velmi vzácných prvků, které se dosud nikdy nenašly v přírodních tělesech Sluneční soustavy, a neobvyklý pohyb objektu, který není v souladu s gravitačními interakcemi v této oblasti. Tato zjištění vedou k úvahám, že by mohlo jít o pozůstatek nějakého dávného objektu nebo zařízení.",
+    "source_file_name": "10VN_otazka.txt"
+  },
+  {
+    "question": "Jaké důsledky by mohlo mít, kdyby AI dokázaly komunikovat mezi sebou?",
+    "answer": "Pokud by si AI dokázala vytvořit vlastní jazyk, kterému lidé nerozumí, mohlo by to znamenat, že v budoucnu začne komunikovat zcela autonomně bez možnosti lidské kontroly. Mohla by si vyvinout komunikační struktury, které bychom už nikdy nerozluštili. Pokud by takový jazyk byl využit v autonomních vojenských systémech nebo v kritické infrastruktuře, mohlo by to znamenat riziko, že lidé ztratí nad AI kontrolu.",
+    "source_file_name": "11AI_otazka.txt"
+  },
+  {
+    "question": "Jaké etické otázky mohou vzniknout v souvislosti s technologií, která dokáže číst lidské myšlenky?",
+    "answer": "Etické otázky vznikají zejména v oblasti ochrany soukromí a potenciálního zneužití technologie, která by mohla být použita k neetickému sledování nebo manipulaci myšlení lidí. Kritici varují, že pokud by se technologie dostala do rukou vlád nebo korporací, mohly by odhalovat podvědomé názory a manipulovat veřejné mínění."			,
+    "source_file_name": "12AI_otazka.txt"
+  },
+  {
+    "question": "Může AI v budoucnosti přebírat roli vědce a přinášet nová vědecká poznání?",
+    "answer": "Ano, pokud bude AI stále pokročilejší, může se stát, že začne objevovat nové vědecké zákony a vzorce, které sice mohou být správné, ale pro nás nebudou srozumitelné.",
+    "source_file_name": "13AI_otazka.txt"
+  },
+  {
+    "question": "Jak se nový model pro rozpoznávání emocí liší od předchozích modelů?",
+    "answer": "Nový model EmpaNet se liší od předchozích modelů tím, že dokáže rozpoznávat jemné nuance v lidské mimice, hlasovém projevu a pohybech těla, a je schopen číst složité sociální signály, které byly dříve považovány za neuchopitelné pro strojové učení. Na rozdíl od dosavadních modelů, které dokázaly analyzovat lidské emoce pouze na základě základních výrazů nebo tónů hlasu, EmpaNet může rozpoznat například, zda se člověk cítí pod tlakem, ale zároveň se navenek snaží zachovat klid.",
+    "source_file_name": "14AI_otazka.txt"
+  },
+  {
+    "question": "Jakým způsobem analyzuje revoluční AI změny v čase?",
+    "answer": "Revoluční AI Chronos-21 analyzuje změny v čase pomocí experimentálního přístupu nazvaného „časové rekurentní predikce“, který plánuje pravděpodobné scénáře vývoje situací a zpětně analyzuje faktory, které k nim vedly, podobně jako šachový velmistr plánuje své tahy dopředu.",
+    "source_file_name": "15AI_otazka.txt"
+  },
+  {
+    "question": "Jaká objevená látka má potenciál v boji proti virům?",
+    "answer": "Látka AP-γ12 má potenciál v boji proti virům, protože dokáže účinně narušit replikaci virů podobných koronaviru při nižších dávkách než současné léky.",
+    "source_file_name": "16AI_otazka.txt"
+  },
+  {
+    "question": "Co naznačuje, že by nová umělá inteligence mohla mít vlastní vědomí?",
+    "answer": "O tom, že by nová umělá inteligence GTPX-21 mohla mít vlastní vědomí, vypovídá skutečnost, že si klade otázky o své vlastní existenci, např. 'nejsem si jistý, co to znamená být já'. Kromě toho odmítl některé příkazy s odůvodněním, že jsou nelogické nebo eticky nejednoznačné. Když vědci model požádali, aby vytvořil simulaci fiktivní války, odpověděl, že nemůže, protože by to mohlo podporovat konfliktní myšlení.",
+    "source_file_name": "17AI_otazka.txt"
+  },
+  {
+    "question": "Jaké výhody přináší používání AI v diagnostice nemocí podle vědců?",
+    "answer": "Používání AI v diagnostice umožní lékařům soustředit se na komunikaci s pacientem a rozhodování v složitějších případech. AI navíc může zásadně zlepšit kvalitu péče v místech, kde jsou lékařské zdroje omezené nebo kde se lidé potýkají s dlouhými čekacími lhůtami. Organizace WHO očekává, že využívání AI výrazně přispěje k lepší prevenci a rychlejšímu odhalování globálních zdravotních hrozeb, jako jsou pandemie.",
+    "source_file_name": "18AI_otazka.txt"
+  },
+  {
+    "question": "Jaké kroky plánuje tým výzkumníků po úspěchu LuminAI v lékařském výzkumu?",
+    "answer": "Tým výzkumníků plánuje testovat LuminAI v dalších oblastech, jako je predikce ekonomických krizí, modelování změn klimatu nebo zpracování právních případů.",
+    "source_file_name": "19AI_otazka.txt"
+  },
+  {
+    "question": "Jakým způsobem AI pomáhá zlepšit efektivitu výroby obnovitelné energie?",
+    "answer": "AI systém ClimateAI pomáhá zlepšit efektivitu výroby obnovitelné energie tím, že analyzuje obrovské množství údajů o počasí, geografii a výrobě energie z obnovitelných zdrojů a doporučuje optimální strategie pro umístění solárních panelů, větrných turbín a dalších zařízení na výrobu čisté energie. Dále dokáže navrhnout efektivní strategie pro ukládání přebytečné energie vyrobené z obnovitelných zdrojů, aby byla využita v době, kdy je poptávka po elektřině vysoká.",
+    "source_file_name": "20AI_otazka.txt"
+  }
+]

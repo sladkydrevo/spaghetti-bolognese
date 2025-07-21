@@ -1,0 +1,32 @@
+Umělá inteligence objevila nový matematický vzorec, který může změnit fyziku
+Vědecká komunita zažívá otřes. Umělá inteligence, původně určená k automatizaci matematických výpočtů, objevila vzorec, který by mohl zásadně ovlivnit kvantovou mechaniku, teorii relativity a možná i samotnou podstatu prostoru a času. Výzkumný tým z MIT ve spolupráci s Google DeepMind oznámil, že jejich systém DeepMath identifikoval dosud neznámý vztah mezi gravitací a kvantovými částicemi. Tento objev přináší naději na vyřešení jednoho z největších problémů moderní fyziky – sjednocení kvantové mechaniky s obecnou teorií relativity.
+
+Systém DeepMath byl navržen jako vysoce pokročilá neuronová síť, schopná analyzovat obrovské množství matematických rovnic a odhalovat skryté vzory. Vědci jej nasměrovali na rozsáhlou databázi rovnic souvisejících s kvantovou gravitací a umožnili mu zkoumat možná propojení mezi známými teoriemi.
+
+„Zpočátku jsme si mysleli, že AI jen opakuje vzory, které už známe,“ vysvětluje Dr. Marcus Levin, vedoucí projektu. „Ale pak se začaly objevovat nové souvislosti, které nedávaly smysl v rámci současných teorií.“
+
+Po týdnech intenzivního zpracování dat systém vygeneroval rovnici, která na první pohled vypadala jako nesmyslný matematický zápis. Avšak po jejím rozboru vědci zjistili, že může popisovat dosud neznámý aspekt gravitace na kvantové úrovni.
+
+První testy naznačují, že vzorec by mohl přispět k vysvětlení temné hmoty a temné energie, dvou záhadných složek vesmíru, které tvoří většinu jeho hmoty, ale vědci zatím nedokázali přesně popsat jejich povahu.
+
+„Pokud jsou výsledky správné, znamenalo by to, že gravitace na kvantové úrovni se chová jinak, než jsme dosud předpokládali,“ vysvětluje Dr. Sofia Zhang z Harvardu. „Tento vzorec naznačuje, že časoprostor může mít jemnější strukturu, než jsme si dosud mysleli.“
+
+Podle prvotních analýz by mohl nový vztah mezi gravitací a kvantovými částicemi umožnit propojení dvou nejvýznamnějších teorií moderní fyziky – Einsteinovy obecné teorie relativity, která popisuje gravitaci ve velkém měřítku, a kvantové mechaniky, která popisuje chování částic v mikrosvětě.
+
+„Sjednocení těchto dvou teorií je svatým grálem moderní fyziky,“ říká Dr. Levin. „A teď máme možná první skutečnou stopu k tomu, jak na to.“
+
+Tento objev otevírá zásadní otázku: Může se umělá inteligence stát plnohodnotným objevitelem nových fyzikálních zákonů? Zatímco dosavadní matematické nástroje byly pouze pomůckami pro vědce, DeepMath dokázal něco, co se blíží nezávislému objevu.
+
+To však přináší i filozofické a etické otázky. Pokud AI dokáže objevit nové zákony přírody, znamená to, že lidé už nejsou jedinými tvůrci vědeckého poznání? A pokud jednou AI objeví vzorec, kterému lidé nebudou schopni porozumět, co to bude znamenat pro budoucnost vědy?
+
+„Zatím jsme schopni nově objevený vzorec analyzovat a testovat,“ říká Dr. Zhang. „Ale pokud bude AI stále pokročilejší, může se stát, že budeme mít teorii, která je správná, ale nebude pro nás srozumitelná.“
+
+Kromě teoretických důsledků by nový vzorec mohl mít i praktické využití. Pokud popisuje dosud neznámé vlastnosti prostoru a času, mohl by vést k průlomům v oblasti kvantových počítačů, pokročilých materiálů nebo dokonce ke zcela novým formám energie.
+
+„Je možné, že tímto směrem se může ubírat budoucnost technologií,“ říká Dr. Levin. „Pokud lépe pochopíme strukturu prostoru na kvantové úrovni, může to otevřít cestu k novým způsobům manipulace s energií, což by mohlo mít zásadní dopad na celý svět.“
+
+Někteří fyzici spekulují, že pokud nový vzorec skutečně propojuje kvantovou mechaniku a gravitaci, mohlo by to vést k technologickému skoku podobnému tomu, který přinesla Einsteinova teorie relativity – a který umožnil vznik GPS nebo jaderné energie.
+
+Nyní probíhají experimenty, které mají ověřit, zda nový vzorec odpovídá fyzikální realitě. Vědci plánují sérii testů s využitím velkého hadronového urychlovače (LHC) a pokročilých kvantových simulací. Pokud se výsledky potvrdí, mohlo by to znamenat největší průlom v teoretické fyzice za posledních sto let.
+
+Zatím je ale jasné jedno: umělá inteligence už není jen nástrojem pro vědce, ale možná se sama stává vědcem. A možná, že další velký objev o podstatě vesmíru už neudělá člověk – ale stroj.
