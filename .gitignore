@@ -1,3 +1,6 @@
 .env
 chroma_data
 __pycache__
+.DS_Store
+.gitignore
+pt3_rag_v2_final.ipynb
