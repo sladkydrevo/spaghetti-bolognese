@@ -2,9 +2,7 @@
 import Levenshtein
 import spacy_udpipe
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import CountVectorizer
 
-import config
 import tools.rag_functions as rf
 
 """try:
@@ -64,6 +62,7 @@ class SimilarityCalculator:
             "dice": dice,
             "word_difference": word_diff
         }
+    
 # 6,8,8,9,11,11
 expected_answer = "Výsledky měření teploty na povrchu objektu X7-N1 ukázaly nepřirozené výkyvy, kdy došlo k nárůstu teploty o několik stupňů během několika hodin, což naznačuje, že objekt může obsahovat aktivní geologické procesy nebo neznámý zdroj energie. Pokud se tyto domněnky potvrdí, mohlo by jít o první objekt ve vnější Sluneční soustavě s aktivním vnitřním ohřevem."
 generated_answers = [
@@ -74,8 +73,3 @@ generated_answers = [
     "Výsledky měření teploty na povrchu objektu X7-N1 ukázaly nepřirozené výkyvy, kdy došlo k nárůstu teploty o několik stupňů během několika hodin, což na takovou vzdálenost od Slunce nedává smysl. To naznačuje, že objekt může obsahovat aktivní geologické procesy nebo neznámý zdroj energie, což by mohlo znamenat, že se jedná o první objekt ve vnější Sluneční soustavě s aktivním vnitřním ohřevem.",
     "Měření teploty na povrchu objektu X7-N1 ukázala nepřirozené výkyvy, kdy došlo k nárůstu teploty o několik stupňů během několika hodin, což naznačuje, že objekt může obsahovat aktivní geologické procesy nebo neznámý zdroj energie. Pokud se tyto domněnky potvrdí, mohl by to být první objekt ve vnější Sluneční soustavě s aktivním vnitřním ohřevem."
 ]
-
-for g in generated_answers:
-    text_to_vec = SimilarityCalculator(expected_answer, g)
-    c = text_to_vec.compare_texts()
-    print(c)
